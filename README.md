@@ -34,3 +34,15 @@ NMAGIF establishes the theoretical, topological, and physical foundations for bi
   **DOI:** [10.5281/zenodo.22479525](https://doi.org/10.5281/zenodo.22479525)
 
 ---
+
+## Repository Structure
+
+```text
+├── index.html              # Main web portal entry point (nmagif.org)
+├── style.css               # Portal styling and design system
+├── script.js               # Frontend interactive logic and telemetry widgets
+├── three.min.js            # Three.js runtime for 3D sphere topology visualization
+├── favicon.svg             # Vector brand icon
+├── research-dossiers.pdf   # Supplementary research dossier
+├── LICENSE                 # MIT License (Portal codebase)
+└── README.md               # Portal documentation & DOI gateway
